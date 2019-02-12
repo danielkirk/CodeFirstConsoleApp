@@ -1,0 +1,14 @@
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.exe.config
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.exe
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.pdb
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.CopyComplete
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.exe
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.pdb
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.Migrations.updateddb.resources
+C:\Users\imdan\source\repos\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.GenerateResource.cache
